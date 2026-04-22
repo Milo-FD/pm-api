@@ -1,4 +1,4 @@
-# Jira Clone API
+# PM - API
 
 A project management REST API built with Node.js, Express, and PostgreSQL. Inspired by Jira, it allows users to manage projects and tasks with full authentication and authorization.
 
